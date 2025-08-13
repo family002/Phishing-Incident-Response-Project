@@ -7,6 +7,7 @@ In this project, I wanted to simulate a phishing payload in a windows environmen
 | ---------- | ------------ | -------------- | ---------------------------------- |
 | Kali Linux | Debian-based | 192.168.56.101 | Attacker machine (payload hosting) |
 | Windows 10 | Version 22H2 | 192.168.56.102 | Target machine                     |
+
 Virtualization: Oracle VirtualBox
 Networking: Host-Only Adapter
 Tools: Metasploit, Wireshark, Event Viewer, Sysinternals ProcDump, Volatility 3
