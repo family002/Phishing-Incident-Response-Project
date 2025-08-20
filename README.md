@@ -1,6 +1,6 @@
 # Phishing-Incident-Response-Project
 
-In this project, I wanted to simulate a phishing payload in a windows environment and capture the activity to perform an incident response investigation with tools like Wireshark, Windows Event Viewer, and Volatility.
+In this project, I wanted to simulate a phishing payload in a windows environment and capture the activity to perform an incident response investigation with tools like Wireshark and Windows Event Viewer.
 
 # Lab Environment
 | Machine    | OS           | IP Address     | Purpose                            |
